@@ -1,4 +1,4 @@
-# Angular Grafic + Node server
+# Angular Chart + Node server
 =================
 ### Introduction
 This repository contains the angular chart project using data from node server API.
@@ -21,7 +21,7 @@ start the server using **node server.js** on your repository;
 
 ### Create angular repository
 
-use the command **ng new grafic** for create your angular repository;
+use the command **ng new chart** for create your angular repository;
 copy our repository and past in your;
 use the command **ng server** for start the angular server.
 
